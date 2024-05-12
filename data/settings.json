@@ -3,12 +3,12 @@
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
+  "showGithub": false,
   "title": "精选实用导航网站",
   "description": "个人",
   "keywords": "导航",
-  "theme": "Shortcut",
-  "appTheme": "Shortcut",
+  "theme": "Light",
+  "appTheme": "App",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
@@ -45,7 +45,7 @@
       "height": null
     }
   ],
-  "sideThemeHeight": 350,
+  "sideThemeHeight": 207,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
@@ -57,6 +57,6 @@
     }
   ],
   "showLanguage": false,
-  "showRate": true,
+  "showRate": false,
   "mirrorList": []
 }
